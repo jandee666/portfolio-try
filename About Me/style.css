@@ -103,6 +103,11 @@ p {
 
 .img {
     height: 40%;
+    padding-top: 100px;
+}
+.img1 {
+    padding-top: 176px;
+    padding-left: 30px;
 }
 
 .watermark {
